@@ -1,5 +1,7 @@
 ## 不应景却又值得纪念的歌
 
+（专辑封面有可以点进去的链接喔）
+
 * 鸭子 
 [![](download/yazi.jpg)](http://music.163.com/song?id=288307&userid=339055913)
 ----
