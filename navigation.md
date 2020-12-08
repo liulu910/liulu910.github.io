@@ -1,21 +1,23 @@
-# MDwiki
+# 刘露的网页呀
 
-[About](index.md)
+[主页](index.md)
 
-[English]()
+[日志]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  - - - -
+  * [我的日志](log/My-log.md)
+  * [私密日志](log/Privite-log.md)
+- - - -
   * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [20来岁在南京](log/20s-in-Nanjing.md)
 
-[Math]()
+[相册]()
 
-  * [Levy Processes](math/levy_processes.md)
+  * [相册](photo-album/Album.md)
+  * [照片](photo-album/Photos.md)
+  * [视频](photo-album/Videos.md)
 
-[Coding](coding/PythonNote.md)
+[留言板](Message-board/Message.md)
 
+[音乐](Music/music.md)
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

@@ -1,0 +1,1 @@
+您还没有日志，快去[写日志](http://rc.qzone.qq.com/blog/add)吧
