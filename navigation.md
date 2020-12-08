@@ -1,6 +1,6 @@
 # 刘露的网页呀
 
-[主页](index/index.md)
+[主页](index.md)
 
 [日志]()
 
