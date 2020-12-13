@@ -1,5 +1,4 @@
 # 刘露   
-![](figures/shenghuozhao.jpg)
 基本资料
 -----
 昵称：娭毑、露子、崽崽
